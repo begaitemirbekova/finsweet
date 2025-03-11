@@ -190,12 +190,12 @@ color: #232536;
     align-items: flex-end;
 }
 .about__top{
-    width: 1061px;
+    width: 80%;
     background: #592ea9;
     height: 23px;
 }
 .about__yellow{
-    width: 843px;
+    width: 80%;
     background: #FFD050;
     height: 23px;
 }
